@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [MyNote](my-note.md)
+* [test2](test2.md)
+* [test1](my-note.md)
 
