@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [test2](test2.md)
-* [test1](my-note.md)
+* [工作常用英语](my-note.md)
 

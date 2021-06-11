@@ -1,8 +1,8 @@
----
-description: thi is xxx.
----
+# 工作常用英语
 
-# test1
+## 单词
 
-Test
+| ITem | Translate |
+| :--- | :--- |
+| deprecated | 已废弃 |
 
