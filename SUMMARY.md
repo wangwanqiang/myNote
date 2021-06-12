@@ -9,3 +9,7 @@
 
 * [cmake and ninja](building/cmake-and-ninja.md)
 
+## code
+
+* [chromium](code/chromium.md)
+
