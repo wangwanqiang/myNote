@@ -2,7 +2,13 @@
 
 ## 单词
 
-| ITem | Translate |
-| :--- | :--- |
-| deprecated | 已废弃 |
+| ITem | Translate | 例句 |
+| :--- | :--- | :--- |
+| deprecated | 已废弃 |  |
 
+
+
+## 邮件常用英语
+
+1. Please take a look.
+2. 
