@@ -11,5 +11,5 @@
 
 ## code
 
-* [chromium](code/chromium.md)
+* [chromium 编译](code/chromium-build.md)
 
