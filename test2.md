@@ -6,6 +6,8 @@
 
 可用的订阅地址：
 
+{% file src=".gitbook/assets/config\_bak.json" caption="配置文件备份" %}
+
 
 
 
