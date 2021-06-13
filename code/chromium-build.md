@@ -16,7 +16,7 @@ netsh winhttp set proxy 127.0.0.1:10809（控制台运行时需要以管理员�
 
 cipd\_client项目来源于 [https://github.com/luci/luci-go/tree/master/cipd/client/cipd](https://github.com/luci/luci-go/tree/master/cipd/client/cipd) 通过源码分析使用的是golong的net/http库访问http/https，可通过环境变量设置代理
 
-set HTTP\_PROXY=127.0.0.1:1081 （注意不要加[http://或者https://）](http://或者https://）) 
+set HTTP\_PROXY=127.0.0.1:10809（注意不要加[http://或者https://）](http://或者https://）) 
 
 set HTTPS\_PROXY=127.0.0.1:10809（注意不要加[http://或者https://）](http://或者https://）)
 
